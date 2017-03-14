@@ -23,7 +23,6 @@ __Objectives for this workshop:__
 * `Attendees can recognise and explain the value of setting a mission for testing, based on those risks.`
 * `Attendees can select an appropriate mnemonic for a particular purpose to create test ideas.`
 * `Attendees can explain the concept of charters, and create them to address risks using generated test ideas.`
-* `Attendees are aware that
 
 __Running Order__
 
@@ -39,7 +38,7 @@ __Exercise Breakdown__
 * Stage 2 - Mission for the testing, make them choose, pick up on AND/OR/BUT. One sentence, that might take a while (20-30 mins)
 * Stage 3 - Pick a mnemonic - use the mnemonic crib sheet (handouts/testingmnemonics1.pdf) by Del Dewar (@deefex), attendees pick whichever the think is most appropriate and brainstorm ideas. (40-60mins)
 * Stage 4 - Charters - demonstrate what good, bad, indifferent looks like with the handout (handouts/sessioncharterexamples1.pdf). Get the attendees to have a go, address a risk with each, and incorporate test ideas into them from the mnemonic test idea part. (40-60 mins).
-* Conclusion - Remind, its a toolkit, not a process. You can do less based on the change. Give them Hendrickson's Test Heuristic Cheat Sheet (handouts/testheuristicscheatsheetv1.pdf) - because it rocks.
+* Conclusion - Remind, its a toolkit, not a process. You can do less based on the change, and if its too big, split it. Give them Hendrickson's Test Heuristic Cheat Sheet (handouts/testheuristicscheatsheetv1.pdf) - because it rocks.
 
 __About Me__
 
