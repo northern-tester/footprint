@@ -1,0 +1,90 @@
+Test Analysis for Dev's
+
+If everybody is thinking alike, then somebody isn't thinking - George S. Patten
+
+Why do Dev's struggle with test analysis?
+
+- Think about the impact less than the implementation
+- Simplify complex problems
+- Think about the happy path
+- Can think localised not big picture
+
+What strengths do Dev's bring to test analysis?
+
+- Code base knowledge
+-- What consumes/interfaces with what
+-- What code is new/old and risky
+- Technical limits and constraints
+- Knowledge of lower level testing
+
+What is test analysis anyway?
+
+- A set of heuristics/guides
+- Used to sharpen the mind
+- Generate ideas which may influence the development
+- A conversation
+
+What is not?
+
+- An absolute set of instructions
+- Complete
+- Test plans, scripts, artefacts, its an approach
+- The real tests will emerge over time
+
+So, what shall we do?
+
+- Look at some tools to widen out thinking
+- Then create pragmatic analysis which informs implementation 
+
+Lesson Plan
+
+- Three's please
+- Bit of variation
+
+Stage 0 - Give me an example...
+
+- If we have a live one, great.
+- If not, a recent one is cool
+
+Stage 1 - Brainstorm! (5 mins)
+
+- Using these as a guide
+- Pick a mnemonic from the handout
+- Pick part of a mnenomic
+- Add some if you want
+
+Stage 2 - Setting a Mission (5 mins)
+
+- What the testing is primarily concerned with
+- We want to test, investigate, evaluate
+- We don't want to prove, ensure, guarantee
+- Encourages choice, communicating that we can't test everything
+- One sentence, not much to ask?
+
+Stage 3 - 5 Risks (10 mins)
+
+- Come up with 5 risks - based around the mission
+- You have to push your mind to get to 5
+- Its too easy to give up, the idea is to stretch
+- If they become trivial and/or vague then you might be at the edge
+
+Stage 4 - Set your sessions (15 mins)
+
+- This is the what and the how meeting the why
+- Charters are one way to express the how and what to test...
+
+Explore X
+Using Y
+To Discover Z
+
+- Helps us to think about:
+-- What data we need
+-- What tooling might be useful
+-- What types of techniques we can use
+- Address the risks identified with your sessions
+
+Stage 5 - Reflect (5 mins)
+
+- One person present back please.
+
+
